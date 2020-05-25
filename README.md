@@ -1,5 +1,7 @@
 # Evolutionary Strategy
 
+In this repo I tried using Evolutionary Stratgies to train a neural network to play Super Mario Bros. for the NES. The generall approach of this type of machine learning can be found [here](https://openai.com/blog/evolution-strategies/).
+
 ## Trainingssession on SuperMarioBros-NES
 
 ### Level 1-1 ✔/✔
